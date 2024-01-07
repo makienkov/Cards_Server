@@ -1,9 +1,10 @@
 # Cards_Server
-A server for the REACT client web project.
+A NodeJS server for the REACT client web project.
 
 1. Unpack the contents of the provided .zip file (e.g., Cards_Server.zip).
 2. Open the Windows Terminal and navigate to the unpacked directory using the 'cd' command.
 3. Run the following command to start the NodeJS server on port 8181:
+4. "node app"
 
 Ensure that NodeJS is installed on your system.
 Check if Node.js is Installed: node -v
