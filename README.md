@@ -11,7 +11,7 @@ Option 1)
 Option 2)
 1. the provided files from Github.
 2. Open the Windows Terminal and navigate to the directory containing the files using the 'cd' command.
-3. Run the following command to install the required pakages for the project: "npm i"
+3. Run the following command to install the required packages  for the project: "npm i"
 4. Run the following command to start the NodeJS server on port 8181: "node app"
 
 Ensure that NodeJS is installed on your system.
